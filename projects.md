@@ -1,3 +1,3 @@
 ## Projects
 
-- CA-GPU
+- [CAGPU](https://github.com/OpenLenia/CAGPU)
