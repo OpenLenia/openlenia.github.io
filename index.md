@@ -2,7 +2,9 @@
 
 Welcome to Open Science Lenia
 
-[Tutorial session @ ALIFE 2021 conference](https://www.robot100.cz/workshops)
+- [About Lenia](https://chakazul.github.io/lenia.html)
+
+- [Tutorial session @ ALIFE 2021 conference](https://www.robot100.cz/workshops)
 
 <img src="https://chakazul.github.io/OSLenia-logo2.png" alt="logo" width="300"/>
 
