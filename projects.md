@@ -6,7 +6,7 @@
 
 ## On-going Projects
 
-- [Thoughts on Life](https://www.thoughtsonlifefilm.com/)  - A film under production by Will Cavendish, where some Lenia creatures will appear.
+- [Thoughts on Life](https://www.thoughtsonlifefilm.com/)  - A film under production by Will Cavendish, where Lenia creatures may appear.
 - [Artbreeder](https://www.artbreeder.com/)  - A "virtual creature" module is under development in Joel Simon's generative art portal.
 - [Codex Virtualis](http://interspecifics.cc/work/codex-virtualis-_/)  - The artist group Interspecifics is using Lenia and machine learning to create art.
 - [VulkanAutomata (MNCA)](https://github.com/Slackermanz/VulkanAutomata)  - Sister project by Slackermanz, another king of geometric automata.
