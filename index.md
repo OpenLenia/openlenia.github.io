@@ -1,16 +1,20 @@
-## About
+<img src="https://chakazul.github.io/OSLenia-logo2.png" alt="logo" height="300"/>
 
-Welcome to Open Science Lenia
+## What is Lenia?
 
-- [About Lenia](https://chakazul.github.io/lenia.html)
+Visit [**Lenia portal**](https://chakazul.github.io/lenia.html) to know more about Lenia, e.g. videos, papers, source code, online demos, and other information.
 
-- [Tutorial session @ ALIFE 2021 conference](https://www.robot100.cz/workshops)
+## Tutorial @ ALIFE 2021
 
-<img src="https://chakazul.github.io/OSLenia-logo2.png" alt="logo" width="300"/>
+- [Resources for the Tutorial](https://github.com/OpenLenia/Lenia-Tutorial)
 
-Five "grand challenges" in the study of Lenia:
-1. **Turing completeness** - Is Lenia able to perform universal computation like a computer?
+- [Teaser video](https://www.youtube.com/watch?v=VqdOiDVlUyM&list=PLdq5pX0lUTK22utoqWs9ic335jVmTOcOB)
+
+- [ALIFE 2021 official website](https://www.robot100.cz/alife2021)
+
+5 grand challenges in the study of Lenia:
+1. **Automated discovery** - How to discover Lenia creatures through automation or crowd-sourcing?
 2. **Emergent agency** - Can we train Lenia creatures as emergent agents using machine learning?
 3. **Swarm cognition** - Can higher-level cognition emerge in swarms of Lenia creatures?
-4. **Automated discovery** - How to discover Lenia creatures through automation or crowd-sourcing?
-5. **Open-endedness** - Can we achieve open-ended evolution with Lenia?
+4. **Open-endedness** - Can we achieve open-ended evolution with Lenia?
+5. **Turing completeness** - Is Lenia able to perform universal computation like a computer?
