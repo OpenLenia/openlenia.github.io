@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Open Science Lenia
-description: Open Science and Open Source projects for the Continuous Cellular Automata
+description: Open Science and Open Source projects for Geometric Automata
 plugins:
   - jekyll-relative-links
 relative_links:
