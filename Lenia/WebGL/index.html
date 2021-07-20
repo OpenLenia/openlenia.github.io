@@ -242,7 +242,7 @@ function init() {
     window.onkeypress = onKeyPress;
 
     textbox.innerHTML = "loading shader files...";
-    loadShaderFiles(['./shadertoy/_vertex.glsl', './shadertoy/_fragment_sim.glsl', './shadertoy/_fragment_draw.glsl', shadertoyFilename],
+    loadShaderFiles(['./shadertoy/vertex.glsl', './shadertoy/fragment_sim.glsl', './shadertoy/fragment_draw.glsl', shadertoyFilename],
         initWebGL);
 }
 
